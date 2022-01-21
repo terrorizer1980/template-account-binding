@@ -22,7 +22,7 @@
     "express": "^4.15.2",
     "express-session": "^1.15.2",
     "level": "^1.6.0",
-    "level-session-store": "^2.0.1",
+    "level-session-store": "^2.2.0",
     "level-sublevel": "^6.6.1",
     "param-case": "^2.1.1",
     "passport": "^0.3.2",
