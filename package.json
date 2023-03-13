@@ -28,7 +28,7 @@
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "pug": "^2.0.0-rc.1",
-    "randomstring": "^1.1.5",
+    "randomstring": "^1.2.3",
     "uuid": "^3.0.1"
   },
   "devDependencies": {
